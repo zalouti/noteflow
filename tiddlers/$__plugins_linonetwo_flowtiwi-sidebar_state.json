@@ -58,7 +58,7 @@
             "w": 2,
             "h": 3,
             "x": 0,
-            "y": 0,
+            "y": 2,
             "i": "$:/plugins/linonetwo/itonnote/Sidebar/FolderMenu",
             "moved": false,
             "static": false
@@ -94,7 +94,7 @@
             "w": 2,
             "h": 2,
             "x": 0,
-            "y": 3,
+            "y": 0,
             "i": "TheBrain",
             "moved": false,
             "static": false
